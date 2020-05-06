@@ -3,10 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace PROYECTO_ED2.COMPRESION_LZW
+namespace PROYECTO_ED2.CLASES_ARBOLES
 {
-    public class LZW
+    public class ARBOLB_PRODUCTO_SUCURSAL
     {
-
     }
 }

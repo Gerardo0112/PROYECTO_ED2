@@ -7,5 +7,6 @@ namespace PROYECTO_ED2.COMPRESION_LZW
 {
     public class TablaComprimir
     {
+
     }
 }
