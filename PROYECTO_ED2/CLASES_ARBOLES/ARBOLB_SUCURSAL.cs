@@ -7,5 +7,6 @@ namespace PROYECTO_ED2.CLASES_ARBOLES
 {
     public class ARBOLB_SUCURSAL
     {
+
     }
 }

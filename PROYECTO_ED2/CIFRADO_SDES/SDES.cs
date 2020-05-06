@@ -7,5 +7,6 @@ namespace PROYECTO_ED2.CIFRADO_SDES
 {
     public class SDES
     {
+
     }
 }
